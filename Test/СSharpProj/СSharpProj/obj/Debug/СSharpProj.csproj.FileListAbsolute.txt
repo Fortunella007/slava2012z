@@ -1,6 +1,0 @@
-C:\Users\slfvy\GIT\slava2012z\Test\СSharpProj\СSharpProj\bin\Debug\СSharpProj.exe.config
-C:\Users\slfvy\GIT\slava2012z\Test\СSharpProj\СSharpProj\bin\Debug\СSharpProj.exe
-C:\Users\slfvy\GIT\slava2012z\Test\СSharpProj\СSharpProj\bin\Debug\СSharpProj.pdb
-C:\Users\slfvy\GIT\slava2012z\Test\СSharpProj\СSharpProj\obj\Debug\СSharpProj.csprojResolveAssemblyReference.cache
-C:\Users\slfvy\GIT\slava2012z\Test\СSharpProj\СSharpProj\obj\Debug\СSharpProj.exe
-C:\Users\slfvy\GIT\slava2012z\Test\СSharpProj\СSharpProj\obj\Debug\СSharpProj.pdb
